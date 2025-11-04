@@ -19,10 +19,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 </div>
+
+
+
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
@@ -73,14 +74,12 @@ print(me.get_current_status())
 Projects:
   - Network Traffic Analysis Tools
   - Security Automation Scripts
-  - Linux System Hardening
   - Packet Capture & Analysis
   
 Tools in Use:
   - Python for automation
   - Wireshark for analysis
   - Kali Linux for testing
-  - C++ for performance
 ```
 
 </td>
@@ -91,7 +90,6 @@ Tools in Use:
 
 ```yaml
 Current Learning:
-  - Advanced Python Security
   - Network Protocol Analysis
   - Linux Kernel Security
   - Wireshark Deep Dive
@@ -107,9 +105,7 @@ Next Goals:
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+
 
 ## 🛠️ Technology Arsenal
 
@@ -148,14 +144,11 @@ Next Goals:
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
 <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+
 
 ## 📊 3D GitHub Contribution Graph
 
@@ -167,9 +160,7 @@ Next Goals:
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+
 
 ## 📈 GitHub Statistics
 
@@ -189,9 +180,6 @@ Next Goals:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneeth132006&theme=github_dark" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
 ## 🏆 GitHub Trophies
 
