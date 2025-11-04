@@ -2,11 +2,11 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Welcome to Praneeth's Digital Universe! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Praneeth!+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%94%92;Network+Security+Researcher+%F0%9F%8C%90;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Praneeth!+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%94%92;Network+Security+Explorer+%F0%9F%8C%90;Linux+%26+Python+Developer+%F0%9F%90%A7;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-### 🌟 Passionate Developer | 🔐 Security Researcher | 📊 Data Enthusiast
+### 🌟 Passionate Developer | 🔐 Security Researcher | 🐧 Linux Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/praneeth132006/">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -29,11 +29,9 @@
 ```javascript
 const praneeth = {
     location: "Vellore, Tamil Nadu, India 🇮🇳",
-    currentFocus: "Cybersecurity & Network Analysis",
+    currentFocus: "Cybersecurity & Network Security",
     education: "Computer Science Student",
-    interests: ["Network Security", "Penetration Testing", "Cloud Computing", "IoT Security"],
-    workingOn: "Advanced Network Traffic Analysis Tools",
-    learning: ["Ethical Hacking", "Cloud Security", "Machine Learning for Cybersecurity"],
+    interests: ["Network Security", "Penetration Testing", "Linux System Administration"],
     funFact: "I can trace network packets faster than I can find my keys! 🔍",
     lifePhilosophy: "Security is not a product, but a process",
     
@@ -48,210 +46,239 @@ const praneeth = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-143a1d7b-7ac8-43f7-b31f-b985b5ee5142.gif" width="400">
+</div>
 
-## 🎯 What I'm Up To
+## 🎯 What I'm Currently Working On
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### 🔭 Current Projects
-- 🌍 Building advanced network tracking systems
-- 🔒 Developing security automation tools
-- 📊 Creating data visualization dashboards
-- 🤖 Exploring AI in cybersecurity
+### 🔭 Current Focus
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+```yaml
+Projects:
+  - Network Traffic Analysis Tools
+  - Security Automation Scripts
+  - Linux System Hardening
+  - Packet Capture & Analysis
+  
+Tools in Use:
+  - Python for automation
+  - Wireshark for analysis
+  - Kali Linux for testing
+  - C++ for performance
+```
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🌱 Learning Journey
-- ☁️ Cloud Security (AWS/Azure)
-- 🐧 Advanced Linux & Bash Scripting
-- 🔐 OSCP Preparation
-- 🧠 Machine Learning for Threat Detection
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+```yaml
+Current Learning:
+  - Advanced Python Security
+  - Network Protocol Analysis
+  - Linux Kernel Security
+  - Wireshark Deep Dive
+  - C++ System Programming
+  
+Next Goals:
+  - Ethical Hacking
+  - Penetration Testing
+  - Security Certifications
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 🛠️ Technology Arsenal
 
 <div align="center">
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,bash" />
-</p>
 
-### 🔧 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,tensorflow,mongodb,mysql,postgres" />
-</p>
+<img height="80" width="80" src="https://cdn.simpleicons.org/python/3776AB" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="80" width="80" src="https://cdn.simpleicons.org/cplusplus/00599C" />
 
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,vim,aws" />
-</p>
+<br><br>
 
-### 🔒 Cybersecurity Tools
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-</div>
+### 🐧 Operating Systems & Tools
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<br>
 
-## 🎨 Featured Projects
+<img height="70" width="70" src="https://cdn.simpleicons.org/linux/FCC624/000" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="70" width="70" src="https://cdn.simpleicons.org/kalilinux/557C94" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="70" width="70" src="https://cdn.simpleicons.org/wireshark/1679A7" />
 
-<div align="center">
+<br><br>
 
-<a href="https://github.com/praneeth132006/Network-Tracking-Using-Wireshark-And-Google-Maps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=praneeth132006&repo=Network-Tracking-Using-Wireshark-And-Google-Maps&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 
-</div>
+### 🔧 Development Tools
 
-### 🌍 Network Tracking Using Wireshark & Google Maps
+<br>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
 
-**Description:** A sophisticated network analysis and visualization tool that bridges the gap between raw network data and geographical intelligence.
-
-**🎯 Key Features:**
-- 📡 Real-time packet capture and analysis
-- 🗺️ Geographical IP location mapping
-- 📊 Interactive data visualization
-- 🔍 Deep packet inspection capabilities
-- 🚨 Anomaly detection and alerting
-- 📈 Network traffic statistics
-
-**🔧 Technical Stack:**
-- **Backend:** Python (Scapy, PyShark)
-- **API Integration:** Google Maps API, IP Geolocation
-- **Data Processing:** Pandas, NumPy
-- **Visualization:** Matplotlib, Plotly
-- **Network Analysis:** Wireshark, tcpdump
-
-**💡 Use Cases:**
-- Network security auditing
-- Traffic pattern analysis
-- Geolocation-based threat detection
-- Network forensics
-- Educational tool for cybersecurity
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=praneeth132006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth132006&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth132006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=praneeth132006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-## 🏆 Achievements & Trophies
+## 📊 3D GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praneeth132006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praneeth132006&custom_title=Praneeth's%20Activity%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%">
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=praneeth132006&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Praneeth's GitHub Stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth132006&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=3B82F6&currStreakNum=3B82F6&dates=c9d1d9&sideLabels=c9d1d9" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth132006&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praneeth132006&theme=github_dark&utcOffset=5.5" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praneeth132006&theme=github_dark" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=praneeth132006&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=-C,-?"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 💼 Professional Skillset
 
-<table>
+<table align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔐 Cybersecurity
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
 - Network Security Analysis
-- Penetration Testing
-- Vulnerability Assessment
-- Security Auditing
-- Incident Response
-- Threat Intelligence
-- Digital Forensics
-- Security Automation
+- Packet Capture & Analysis
+- Security Tool Automation
+- Vulnerability Research
+- Linux System Security
+- Network Protocol Understanding
+- Security Script Development
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 💻 Development
-- Full Stack Development
-- API Development & Integration
-- Database Design
-- Cloud Architecture
-- DevOps Practices
-- CI/CD Pipeline
-- Microservices
-- RESTful Services
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
-</td>
-<td width="33%" valign="top">
-
-### 📊 Data & Analytics
-- Data Visualization
-- Network Traffic Analysis
-- Log Analysis
-- Statistical Analysis
-- Machine Learning
-- Pattern Recognition
-- Anomaly Detection
-- Data Mining
+- Python Programming
+- C++ Development
+- Linux System Administration
+- Bash Scripting
+- Command Line Tools
+- System Programming
+- Network Programming
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praneeth132006&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-## 🎓 Certifications & Learning Path
+## 🎓 Learning Path
 
 <div align="center">
 
-| 🎯 Target Certifications | 📚 Current Learning |
-|:------------------------:|:-------------------:|
-| CEH (Certified Ethical Hacker) | Advanced Python for Security |
-| OSCP (Offensive Security) | AWS Security Specialty |
-| CompTIA Security+ | Kubernetes Security |
-| AWS Solutions Architect | Machine Learning |
+<table>
+<tr>
+<td align="center">
+
+### 🎯 Target Certifications
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" />
+
+```yaml
+Security:
+  - CEH (Certified Ethical Hacker)
+  - OSCP (Offensive Security)
+  - CompTIA Security+
+  
+Development:
+  - Python Advanced Certification
+  - C++ Professional
+```
+
+</td>
+<td align="center">
+
+### 📚 Current Focus Areas
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
+
+```yaml
+Learning:
+  - Advanced Python for Security
+  - Network Protocol Deep Dive
+  - Linux Kernel Internals
+  - Wireshark Expert Analysis
+  - C++ System Programming
+  - Penetration Testing
+```
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-## 💡 Random Dev Wisdom
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -259,12 +286,14 @@ const praneeth = {
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-I'm always excited to collaborate on innovative projects, especially in:
-- 🔒 Cybersecurity & Network Security
-- 🌐 Full Stack Development
-- 📊 Data Visualization & Analytics
-- ☁️ Cloud Computing & DevOps
-- 🤖 AI/ML Applications in Security
+### I'm always excited to collaborate on:
+🔒 **Cybersecurity & Network Security Projects**  
+🐧 **Linux System Tools & Utilities**  
+🐍 **Python Security Automation**  
+📊 **Network Analysis & Monitoring**  
+🛡️ **Security Research & Development**
+
+<br>
 
 ### 📫 Reach Out!
 
@@ -280,18 +309,24 @@ I'm always excited to collaborate on innovative projects, especially in:
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=praneeth132006&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=praneeth132006&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 <div align="center">
 
 ### 🎯 "In the world of zeros and ones, security is the only constant that matters."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-⭐️ From [praneeth132006](https://github.com/praneeth132006) with 💙
+<br>
+
+### ⭐️ From [praneeth132006](https://github.com/praneeth132006) with 💙
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
