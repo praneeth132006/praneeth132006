@@ -187,9 +187,6 @@ Next Goals:
   <img src="https://github-profile-trophy.vercel.app/?username=praneeth132006&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=-C,-?"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
 ## 💼 Professional Skillset
 
@@ -226,9 +223,7 @@ Next Goals:
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+
 
 ## 🎓 Learning Path
 
@@ -239,7 +234,7 @@ Next Goals:
 <td align="center">
 
 ### 🎯 Target Certifications
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" />
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" />
 
 ```yaml
 Security:
@@ -274,9 +269,7 @@ Learning:
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -311,9 +304,6 @@ Learning:
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
 <div align="center">
 
@@ -325,6 +315,6 @@ Learning:
 
 ### ⭐️ From [praneeth132006](https://github.com/praneeth132006) with 💙
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 </div>
