@@ -26,24 +26,34 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
-```javascript
-const praneeth = {
-    location: "Vellore, Tamil Nadu, India 🇮🇳",
-    currentFocus: "Cybersecurity & Network Security",
-    education: "Computer Science Student",
-    interests: ["Network Security", "Penetration Testing", "Linux System Administration"],
-    funFact: "I can trace network packets faster than I can find my keys! 🔍",
-    lifePhilosophy: "Security is not a product, but a process",
+```python
+class Praneeth:
+    def __init__(self):
+        self.location = "Andhra Pradesh, India 🇮🇳"
+        self.current_focus = "Cybersecurity & Network Security"
+        self.education = "Computer Science Student"
+        self.interests = [
+            "Network Security",
+            "Penetration Testing",
+            "Linux System Administration"
+        ]
+        self.fun_fact = "I can trace network packets faster than I can find my keys! 🔍"
+        self.life_philosophy = "Security is not a product, but a process"
     
-    getCurrentStatus: function() {
+    def get_current_status(self):
         return {
-            coding: "🔥 Building secure systems",
-            exploring: "🌐 Network vulnerabilities",
-            researching: "🛡️ Latest security threats",
-            coffee: "☕ Always brewing"
-        };
-    }
-};
+            "coding": "🔥 Building secure systems",
+            "exploring": "🌐 Network vulnerabilities",
+            "researching": "🛡️ Latest security threats",
+            "coffee": "☕ Always brewing"
+        }
+    
+    def __str__(self):
+        return f"Security Researcher & Developer from {self.location}"
+
+# Initialize
+me = Praneeth()
+print(me.get_current_status())
 ```
 
 <div align="center">
