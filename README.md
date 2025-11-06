@@ -68,7 +68,7 @@ print(me.get_current_status())
 <td align="center" width="50%">
 
 ### 🔭 Current Focus
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150">
 
 ```yaml
 Projects:
@@ -86,7 +86,7 @@ Tools in Use:
 <td align="center" width="50%">
 
 ### 🌱 Learning Journey
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<img src="https://png.pngtree.com/png-vector/20250113/ourmid/pngtree-minimalist-design-of-stacked-books-forming-a-staircase-representing-educational-achievement-png-image_15167926.png" width="150">
 
 ```yaml
 Current Learning:
@@ -165,9 +165,9 @@ Next Goals:
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth132006&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=3B82F6&currStreakNum=3B82F6&dates=c9d1d9&sideLabels=c9d1d9" />
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth132006&layout=donut-vertical&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+  
+  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth132006&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
@@ -183,7 +183,7 @@ Next Goals:
 <td width="50%" valign="top">
 
 ### 🔐 Cybersecurity
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif" width="150">
 
 - Network Security Analysis
 - Packet Capture & Analysis
@@ -197,7 +197,7 @@ Next Goals:
 <td width="50%" valign="top">
 
 ### 💻 Development
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+<img src="https://onlinegiftools.com/images/gif/illustrations/create-transparent-gif.png" width="150">
 
 - Python Programming
 - C++ Development
@@ -222,7 +222,7 @@ Next Goals:
 <td align="center">
 
 ### 🎯 Target Certifications
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+<img src="https://cdn-icons-png.flaticon.com/512/10771/10771301.png" width="150" />
 
 ```yaml
 Security:
@@ -239,7 +239,7 @@ Development:
 <td align="center">
 
 ### 📚 Current Focus Areas
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" />
+<img src="https://cdn.dribbble.com/userupload/23702181/file/original-a3de4db34859ed0c2c4b58a1cba47ece.gif" width="150" />
 
 ```yaml
 Learning:
